@@ -1,0 +1,7 @@
+t1 = (1, 2, 3)
+t2 = (4, 5)
+
+# join tuples
+t3 = t1 + t2
+
+print("New tuple:", t3)
